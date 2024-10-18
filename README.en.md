@@ -62,7 +62,7 @@ Our code is divided into two parts:
   - `diff_prediction_window.py` 
 
 
-**Please note** that the file names represent the type of analysis or prediction. For example, `Prediction_performance.py`represents the preformance of __Calchas__.
+**Please note** that the file names represent the type of analysis or prediction. For example, `Prediction_performance.py`represents the performance of __Calchas__.
 
 ## Run
 
