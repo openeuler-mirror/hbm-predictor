@@ -10,10 +10,8 @@ MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
 See the Mulan PSL v2 for more details.
 """
 
-import os
-import time
+
 import numpy as np
-import pandas as pd
 from pathlib import Path
 
 from sklearn.ensemble import RandomForestClassifier
